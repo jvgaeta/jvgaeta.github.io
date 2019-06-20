@@ -40,24 +40,6 @@
   margin-left: 0px;
   margin-top: 0px;
 }
-#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_3 {
-  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.8480480961564258,M12=0.529919264233205,M21=-0.529919264233205,M22=0.8480480961564258);
-  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.8480480961564258,M12=0.529919264233205,M21=-0.529919264233205,M22=0.8480480961564258);
-  margin-left: -5px;
-  margin-top: -19px;
-}
-#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_4 {
-  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.7071067811865476,M12=-0.7071067811865475,M21=0.7071067811865475,M22=0.7071067811865476);
-  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.7071067811865476,M12=-0.7071067811865475,M21=0.7071067811865475,M22=0.7071067811865476);
-  margin-left: -5px;
-  margin-top: -30px;
-}
-#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Text_2 {
-  -ms-filter: ;
-  filter: ;
-  margin-left: 0px;
-  margin-top: 0px;
-}
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Rectangle_2 {
   -ms-filter: ;
   filter: ;
@@ -72,6 +54,24 @@
 }
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Line_1 {
   rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_3 {
+  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.8480480961564258,M12=0.529919264233205,M21=-0.529919264233205,M22=0.8480480961564258);
+  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.8480480961564258,M12=0.529919264233205,M21=-0.529919264233205,M22=0.8480480961564258);
+  margin-left: -2px;
+  margin-top: -6px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_4 {
+  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.7071067811865476,M12=-0.7071067811865475,M21=0.7071067811865475,M22=0.7071067811865476);
+  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.7071067811865476,M12=-0.7071067811865475,M21=0.7071067811865475,M22=0.7071067811865476);
+  margin-left: -3px;
+  margin-top: -14px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Text_2 {
+  -ms-filter: ;
+  filter: ;
   margin-left: 0px;
   margin-top: 0px;
 }

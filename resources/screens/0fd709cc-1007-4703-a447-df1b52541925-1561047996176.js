@@ -129,7 +129,257 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_1")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
+                      "attributes-ie": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Panel_1" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Image_19","#s-Image_8" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Rectangle_2")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
+                      "attributes-ie": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Panel_2" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Image_19","#s-Image_13","#s-Image_8" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-pieChart")) {
       cases = [
         {
           "blocks": [
@@ -379,381 +629,6 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Rectangle_4")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
-                      "attributes-ie": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Panel_4" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Image_19","#s-Image_13","#s-Image_8" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Image_1")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
-                      "attributes-ie": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Panel_1" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Image_19","#s-Image_8" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-pieChart")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
-                      "attributes-ie": {
-                        "border-left-width": "8px",
-                        "border-left-style": "solid",
-                        "border-left-color": "#FFDF00"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
-                      "attributes": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  },{
-                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
-                      "attributes-ie": {
-                        "border-left-width": "0px"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Panel_2" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Image_19","#s-Image_13","#s-Image_8" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Image_37")) {
       cases = [
         {
@@ -848,6 +723,131 @@ jQuery("#simulation")
                   "action": "jimShow",
                   "parameter": {
                     "target": [ "#s-Panel_3" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Image_19","#s-Image_13","#s-Image_8" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_4")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_4": {
+                      "attributes-ie": {
+                        "border-left-width": "8px",
+                        "border-left-style": "solid",
+                        "border-left-color": "#FFDF00"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_3": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_1": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2 > .backgroundLayer": {
+                      "attributes": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  },{
+                    "#s-0fd709cc-1007-4703-a447-df1b52541925 #s-Rectangle_2": {
+                      "attributes-ie": {
+                        "border-left-width": "0px"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Panel_4" ]
                   },
                   "exectype": "serial",
                   "delay": 0

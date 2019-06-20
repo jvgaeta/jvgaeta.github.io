@@ -1123,6 +1123,7 @@
   -moz-transform: rotate(0deg);
   transform: rotate(0deg);
   text-shadow: none;
+  cursor: pointer;
   padding-left: 0px;
   padding-bottom: 0px;
   padding-right: 0px;
